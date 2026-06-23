@@ -1,0 +1,45 @@
+# LangChain Core & LCEL (Runnable Pipeline)
+langchain
+langchain-core
+langchain-community
+
+# Mistral AI Integration
+langchain-mistralai
+mistralai
+
+# React Agent / LangGraph
+langgraph
+
+# Tool 1 - Tavily Search
+tavily-python
+langchain-tavily
+
+# Tool 2 - BeautifulSoup Web Scraping
+beautifulsoup4
+lxml
+html5lib
+requests
+httpx
+
+# Environment & Config
+python-dotenv
+
+# Data Validation
+pydantic
+pydantic-settings
+
+# Async Support
+aiohttp
+asyncio-throttle
+
+# Utilities
+tenacity
+tiktoken
+numpy
+
+# Logging & Observability
+langsmith
+
+# Jupyter / Notebook
+ipython
+notebook
